@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AimeeKnight/aimeeknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Having worked professionally in software development for over a decade, my expertise spans MLOps, cloud infrastructure and application engineering. For a comprehensive compilation of my conference talks, blog posts, and podcast interviews, please refer to my GitHub projects below and AimeeMarieKnight.com.
-
 ### Hi there 👋, my name is Aimee Knight
 #### Software Engineer and Cloud Architect 
+
+Having worked professionally in software development for over a decade, my expertise spans MLOps, cloud infrastructure and application engineering. For a comprehensive compilation of my conference talks, blog posts, and podcast interviews, please refer to my GitHub projects below and AimeeMarieKnight.com.
 
 Skills: Node / JS / MLOps / Kubernetes
 
@@ -43,8 +41,10 @@ Skills: Node / JS / MLOps / Kubernetes
 -->
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<!--
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AimeeKnight&color=0E9C47&style=for-the-badge">
+-->
 
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AimeeKnight&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
