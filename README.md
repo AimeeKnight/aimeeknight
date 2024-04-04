@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Aimee Knight
 #### Software Engineer and Cloud Architect 
 
-Having worked professionally in software development for over a decade, my expertise spans MLOps, cloud infrastructure and application engineering. For a comprehensive compilation of my conference talks, blog posts, and podcast interviews, please refer to my GitHub projects below and AimeeMarieKnight.com.
+Having worked professionally in software development for over a decade, my expertise spans MLOps, cloud infrastructure, Kubernetes, and application engineering. For a comprehensive compilation of my conference talks, blog posts, and podcast interviews, please refer to my GitHub projects below and AimeeMarieKnight.com.
 
 Skills: Node / JS / MLOps / Kubernetes
 
