@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Aimee Knight
 #### Software Engineer, Cloud Architect, [Google Cloud Developer Expert](https://developers.google.com/profile/u/aimeemarieknight)
 
-Having worked professionally in software development for over a decade, my expertise spans MLOps, cloud infrastructure, Kubernetes, and application engineering. For a comprehensive compilation of my conference talks, blog posts, and podcast interviews, please refer to my GitHub projects below and AimeeMarieKnight.com.
+Having worked professionally in software development for over a decade, my expertise spans MLOps, cloud infrastructure, Kubernetes, and application engineering. For a comprehensive compilation of my conference talks, blog posts, and podcast interviews, please refer to my GitHub projects below and AimeeMarieKnight.com. A copy of my resume can be downloaded from [Standard Resume](https://standardresume.co/r/aimeeknight).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
